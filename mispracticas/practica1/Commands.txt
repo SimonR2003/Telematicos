@@ -1,0 +1,4 @@
+vagrant package servidor --output mybox.box
+apt-get install net-tools
+apt-get install vim
+
